@@ -10,7 +10,7 @@ Use this gif as an example of how the app should work.
 
 Welcome to Plantsy! You've been tasked with building out some features for the
 admin side of a plant store. The designers have put together the components and
-CSS. Now it's up to you to bring the features to life by adding stateful logic
+CSS. Now it's up to you to bring the features to life by adding stateful logic\
 as well as persisting data to the backend via our API.
 
 Your job will be to make our app work according to the user stories you will
